@@ -1,4 +1,4 @@
-### Hi there, I'm Akash Devgan [codeSTACKr][website] 👋
+# Hi there 👋, I'm Akash Devgan
 
 ## I'm a Web Developer based in Toronto, Canada!!
 
