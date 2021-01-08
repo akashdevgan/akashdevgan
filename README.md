@@ -18,10 +18,6 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 </p>
 
-<br />
-<br />
-
-
 [website]: http://akashdevgan.com/
 [instagram]: https://instagram.com/akash.developer
 [linkedin]: https://www.linkedin.com/in/akash24/
